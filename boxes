@@ -1,0 +1,19 @@
+<div class="image-container" style="position: relative">
+			<a href="https://www.facebook.com/profile.php?id=100009488478534" class="img-responsive" style="
+			position: absolute;
+			width: 10%;
+			height: 10%;
+			left: 180px;
+			top: 115px;
+			background-color: #ffffff;
+			"></a>
+			<a href="https://twitter.com/MissQuirkyBear" class="img-responsive" style="
+			position: absolute;
+			width: 130px;
+			height: 110px;
+			left: 315px;
+			top: 160px;
+			background-color: #ffffff;
+			"></a>
+			<img src= "images/socialmediafish.png" class="img-responsive" />
+		</div>
